@@ -61,3 +61,18 @@ Desktop.ini
 # Unused character demonstration level
 /ECHO/Content/Medieval_Assassin_Girl/map/
 
+# Game Animation Sample library: local until source redistribution terms are confirmed
+/ECHO/Content/Characters/UEFN_Mannequin/
+/ECHO/Content/Audio/
+/ECHO/Content/Blueprints/
+/ECHO/Content/Input/
+/ECHO/Content/Misc/
+/ECHO/Content/LevelPrototyping/*
+!/ECHO/Content/LevelPrototyping/Meshes/
+/ECHO/Content/LevelPrototyping/Meshes/*
+!/ECHO/Content/LevelPrototyping/Meshes/SM_Cube.uasset
+/ECHO/Content/ECHO/Characters/Assassin/Animations/GASP/
+/ECHO/Content/ECHO/Characters/Assassin/Retargeting/IK_ECHO_UEFN.uasset
+/ECHO/Content/ECHO/Characters/Assassin/Retargeting/RTG_ECHO_UEFNToAssassin.uasset
+/ECHO/Content/ECHO_GASP_*.uasset
+/ECHO/Content/ECHO/Maps/AnimationLab/
